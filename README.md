@@ -1,0 +1,1 @@
+It is college placement website which included sections for ongoing and upcoming placement drives, Alumni, Training, Contact Us, etc. These website is for final year student who are currently looking and participating in campus placement drive.
